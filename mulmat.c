@@ -1,4 +1,5 @@
-#include "mul_mat_cache.h"
+mulmat.c
+#include "mulmat.h"
 #include "constantes.h"
 #include <omp.h>
 #include <string.h> 
