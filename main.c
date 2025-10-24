@@ -1,9 +1,10 @@
+main.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
 #include <omp.h>
-#include "mul_mat_cache.h"
+#include "mulmat.h"
 
 
 double** alocar_matriz_adjacente(int n) {
